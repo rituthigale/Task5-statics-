@@ -1,0 +1,12 @@
+Statistical Analysis Report
+
+Mean: 67.5
+Median: 67.5
+Mode: 45
+
+T-Test:
+T-Statistic: 2.45
+P-value: 0.03
+
+Conclusion:
+Statistically Significant
